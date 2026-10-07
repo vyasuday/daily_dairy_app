@@ -1,0 +1,46 @@
+[
+  {
+    "id": "plan_weekly",
+    "plan_code": "WEEKLY",
+    "name": "Weekly Delivery Plan",
+    "description": "Your Invoice will be generated after every Week",
+    "billing_cycle_days": 7,
+    "invoice_interval_desc": "every Week",
+    "discount_percentage": 5.0,
+    "is_active": true,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "plan_monthly",
+    "plan_code": "MONTHLY",
+    "name": "Monthly Delivery Plan",
+    "description": "Your Invoice will be generated after every Month",
+    "billing_cycle_days": 30,
+    "invoice_interval_desc": "every Month",
+    "discount_percentage": 10.0,
+    "is_active": true,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "plan_yearly",
+    "plan_code": "YEARLY",
+    "name": "Yearly Delivery Plan",
+    "description": "Your Invoice will be generated after every Year",
+    "billing_cycle_days": 365,
+    "invoice_interval_desc": "every Year",
+    "discount_percentage": 20.0,
+    "is_active": true,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "plan_custom",
+    "plan_code": "CUSTOM",
+    "name": "Custom Delivery Plan",
+    "description": "Customized schedule & flexible quantity choices",
+    "billing_cycle_days": 0,
+    "invoice_interval_desc": "flexible",
+    "discount_percentage": 0.0,
+    "is_active": true,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  }
+]

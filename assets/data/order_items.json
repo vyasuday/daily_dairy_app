@@ -1,0 +1,79 @@
+[
+  {
+    "id": "oitem_1",
+    "order_id": "ord_1001",
+    "product_id": "prod_butter_amul_500",
+    "product_name": "Amul Butter (500gm)",
+    "unit": "500gm",
+    "quantity": 2,
+    "unit_price": 275.0,
+    "subtotal": 550.0,
+    "created_at": "2023-10-24T06:00:00.000Z"
+  },
+  {
+    "id": "oitem_2",
+    "order_id": "ord_1001",
+    "product_id": "prod_paneer_amul_500",
+    "product_name": "Amul Paneer (500gm)",
+    "unit": "500gm",
+    "quantity": 1,
+    "unit_price": 190.0,
+    "subtotal": 190.0,
+    "created_at": "2023-10-24T06:00:00.000Z"
+  },
+  {
+    "id": "oitem_3",
+    "order_id": "ord_1001",
+    "product_id": "prod_cheese_gov_500",
+    "product_name": "Govardhan Cheese (500gm)",
+    "unit": "500gm",
+    "quantity": 4,
+    "unit_price": 60.0,
+    "subtotal": 240.0,
+    "created_at": "2023-10-24T06:00:00.000Z"
+  },
+  {
+    "id": "oitem_4",
+    "order_id": "ord_1001",
+    "product_id": "prod_taaza_500",
+    "product_name": "Amul Taaza (500ML)",
+    "unit": "500ML",
+    "quantity": 1,
+    "unit_price": 26.0,
+    "subtotal": 26.0,
+    "created_at": "2023-10-24T06:00:00.000Z"
+  },
+  {
+    "id": "oitem_5",
+    "order_id": "ord_1001",
+    "product_id": "prod_paneer_gov_500",
+    "product_name": "Govardhan Paneer (500gm)",
+    "unit": "500gm",
+    "quantity": 1,
+    "unit_price": 200.0,
+    "subtotal": 200.0,
+    "created_at": "2023-10-24T06:00:00.000Z"
+  },
+  {
+    "id": "oitem_ord_1791385122932_0",
+    "order_id": "ord_1791385122932",
+    "product_id": "prod_taaza_500",
+    "product_name": "Amul Taaza 500ML",
+    "unit": "500ML",
+    "quantity": 2,
+    "unit_price": 26.0,
+    "subtotal": 52.0,
+    "created_at": "2026-10-07T20:28:42.940538"
+  },
+  {
+    "id": "oitem_ord_1791385144201_0",
+    "order_id": "ord_1791385144201",
+    "product_id": "prod_taaza_500",
+    "product_name": "Amul Taaza 500ML",
+    "unit": "500ML",
+    "quantity": 2,
+    "unit_price": 26.0,
+    "subtotal": 52.0,
+    "created_at": "2026-10-07T20:29:04.211309"
+  }
+]

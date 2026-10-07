@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sub_1",
+    "user_id": "usr_rajesh",
+    "plan_id": "plan_weekly",
+    "status": "ACTIVE",
+    "delivery_address": "Sector 4, Apartment 302",
+    "total_daily_cost": 56.0,
+    "start_date": "2023-10-01",
+    "end_date": null,
+    "next_delivery_date": "2023-10-23",
+    "resumes_at": null,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "sub_2",
+    "user_id": "usr_priya",
+    "plan_id": "plan_monthly",
+    "status": "ACTIVE",
+    "delivery_address": "Sunrise Residency, Flat 12A",
+    "total_daily_cost": 26.0,
+    "start_date": "2023-09-15",
+    "end_date": null,
+    "next_delivery_date": "2023-11-01",
+    "resumes_at": null,
+    "created_at": "2023-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "sub_3",
+    "user_id": "usr_amit",
+    "plan_id": "plan_weekly",
+    "status": "ACTIVE",
+    "delivery_address": "Hilltop Villas, House #24",
+    "total_daily_cost": 66.0,
+    "start_date": "2023-10-10",
+    "end_date": null,
+    "next_delivery_date": "2023-10-24",
+    "resumes_at": null,
+    "created_at": "2023-10-10T00:00:00.000Z"
+  },
+  {
+    "id": "sub_4",
+    "user_id": "usr_vikram",
+    "plan_id": "plan_weekly",
+    "status": "PAUSED",
+    "delivery_address": "Mall Road, Shop 102",
+    "total_daily_cost": 26.0,
+    "start_date": "2023-08-01",
+    "end_date": null,
+    "next_delivery_date": null,
+    "resumes_at": "2023-11-10",
+    "created_at": "2023-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "sub_5",
+    "user_id": "usr_manan",
+    "plan_id": "plan_monthly",
+    "status": "ACTIVE",
+    "delivery_address": "Shreedip Residency Changa Gujarat",
+    "total_daily_cost": 52.0,
+    "start_date": "2023-10-01",
+    "end_date": null,
+    "next_delivery_date": "2023-11-01",
+    "resumes_at": null,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  }
+]

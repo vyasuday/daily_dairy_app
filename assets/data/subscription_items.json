@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sitem_1",
+    "subscription_id": "sub_1",
+    "product_id": "prod_gold_500",
+    "quantity": 2,
+    "unit_price": 28.0,
+    "subtotal": 56.0,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "sitem_2",
+    "subscription_id": "sub_2",
+    "product_id": "prod_shakti_500",
+    "quantity": 1,
+    "unit_price": 26.0,
+    "subtotal": 26.0,
+    "created_at": "2023-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "sitem_3",
+    "subscription_id": "sub_3",
+    "product_id": "prod_taaza_500",
+    "quantity": 3,
+    "unit_price": 22.0,
+    "subtotal": 66.0,
+    "created_at": "2023-10-10T00:00:00.000Z"
+  },
+  {
+    "id": "sitem_4",
+    "subscription_id": "sub_4",
+    "product_id": "prod_gokul_500",
+    "quantity": 1,
+    "unit_price": 26.0,
+    "subtotal": 26.0,
+    "created_at": "2023-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "sitem_5",
+    "subscription_id": "sub_5",
+    "product_id": "prod_taaza_500",
+    "quantity": 2,
+    "unit_price": 26.0,
+    "subtotal": 52.0,
+    "created_at": "2023-10-01T00:00:00.000Z"
+  }
+]

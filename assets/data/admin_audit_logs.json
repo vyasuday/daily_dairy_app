@@ -1,0 +1,12 @@
+[
+  {
+    "id": "audit_1",
+    "admin_id": "usr_admin_prince",
+    "action_type": "PRODUCT_PRICE_UPDATE",
+    "target_entity": "products",
+    "target_id": "prod_gold_500",
+    "details": "Updated Amul Gold 500ML price to 28.00 INR",
+    "ip_address": "192.168.1.100",
+    "created_at": "2023-10-24T05:00:00.000Z"
+  }
+]
